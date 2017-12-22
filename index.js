@@ -11,6 +11,14 @@ function johnLennonFacts(fact) {
   let listedFacts = [];
   while (i < fact.length) {
     listedFacts.push(`${fact[i]}!!!`);
+    i++;
   }
   return listedFacts;
+}
+
+function iLoveTheBeatles(n) {
+  let newArray = [];
+  do () {
+    while ()
+  }
 }
