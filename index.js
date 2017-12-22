@@ -21,7 +21,7 @@ function iLoveTheBeatles(n) {
   let i = 0;
   do {
     newArray.push('I love the Beatles!');
-    i++
+    i++;
   } while (i <= n);
   return newArray;
 }
